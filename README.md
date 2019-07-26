@@ -28,7 +28,9 @@ Build an application to challenge yourself on concepts of Java and Object Orient
 18 Repository of user submitted tests.
 19 Share tests on social media.
 
-
+#### Agile
+* No set sprint schedule
+* Weekly stand ups
 
 #### languages
 * Java/Spring Boot Back-end
